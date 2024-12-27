@@ -30,7 +30,7 @@ This repository implements a deep learning approach for cervical cancer detectio
    ```
 
 ## Usage
-To use the cervical cancer detection system, follow these steps:
+1. To use the cervical cancer detection system, follow these steps:
 - **Prepare your data:**:
    - The dataset used here is Herlev Dataset
    - Available in https://www.kaggle.com/datasets/yuvrajsinhachowdhury/herlev-dataset

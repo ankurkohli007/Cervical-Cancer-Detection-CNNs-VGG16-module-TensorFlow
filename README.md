@@ -68,10 +68,6 @@ The notebook contains detailed results showcasing the model's performance on cer
 
 Contributions to improve the project are welcome! Feel free to fork the repository and submit pull requests with your enhancements.
 
-## License
-
-This project is licensed under the MIT License. Refer to the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
 For any questions or suggestions, feel free to reach out:

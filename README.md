@@ -30,8 +30,11 @@ This repository implements a deep learning approach for cervical cancer detectio
    ```
 
 ## Usage
-
-1. **Prepare the dataset**: Ensure the cervical cancer dataset is properly organized and placed in the `data` directory.
+To use the cervical cancer detection system, follow these steps:
+- **Prepare your data:**:
+   - The dataset used here is Herlev Dataset
+   - Available in https://www.kaggle.com/datasets/yuvrajsinhachowdhury/herlev-dataset
+   - Organize your dataset into train and test directories with subdirectories for each class label.
 
 2. **Run the notebook**:
    ```bash

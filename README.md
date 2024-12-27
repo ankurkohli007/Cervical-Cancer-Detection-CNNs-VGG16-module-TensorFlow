@@ -68,9 +68,4 @@ The notebook contains detailed results showcasing the model's performance on cer
 
 Contributions to improve the project are welcome! Feel free to fork the repository and submit pull requests with your enhancements.
 
-## Contact
-
-For any questions or suggestions, feel free to reach out:
-
-Ankur Kohli  
-Email: [ankurkohli007@example.com](mailto:ankurkohli1997007@gmail.com)
+PS: The above project is to cervical cancer detection using convolutional neural networks (CNNs) VGG16 module.

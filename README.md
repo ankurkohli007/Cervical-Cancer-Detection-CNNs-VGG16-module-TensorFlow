@@ -70,4 +70,4 @@ The notebook contains detailed results showcasing the model's performance on cer
 
 Contributions to improve the project are welcome! Feel free to fork the repository and submit pull requests with your enhancements.
 
-PS: The above project is to cervical cancer detection using convolutional neural networks (CNNs) VGG16 module.
+PS: The above project is simple example for cervical cancer detection using convolutional neural networks (CNNs) VGG16 module.

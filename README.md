@@ -1,4 +1,4 @@
-# Cervical Cancer Detection using CNNs and VGG16 Module
+# Cervical Cancer Detection using CNNs and VGG16 Module - TensorFlow
 
 This repository implements a deep learning approach for cervical cancer detection using Convolutional Neural Networks (CNNs) with the VGG16 architecture. It provides a complete pipeline for preprocessing medical imaging data, training the VGG16 model, and evaluating its performance.
 

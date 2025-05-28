@@ -4,7 +4,7 @@ This repository implements a deep learning approach for cervical cancer detectio
 
 ## Features
 
-- Utilizes transfer learning with the VGG16 pre-trained model for feature extraction and fine-tuning.
+- Utilizes _**transfer learning**_ with the VGG16 pre-trained model for feature extraction and fine-tuning.
 - Comprehensive workflow: data preprocessing, training, validation, and evaluation.
 - Medical imaging-focused: designed to handle cervical cancer datasets efficiently.
 - Results visualization, including confusion matrices, accuracy, and loss curves.
